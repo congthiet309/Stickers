@@ -1,0 +1,52 @@
+{
+    "List": {
+        "Trending": [
+            {
+                "name": "Chewy",
+                "isNew": "N",
+                "price": "free",
+                "urlLogo": "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif",
+                "urlImage": [
+                    "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif",
+                    "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif",
+                    "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif"
+                ]
+            },
+            {
+                "name": "Chewy",
+                "isNew": "N",
+                "price": "free",
+                "urlLogo": "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif",
+                "urlImage": [
+                    "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif",
+                    "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif",
+                    "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif"
+                ]
+            }
+        ],
+        "Animal": [
+            {
+                "name": "Chewy",
+                "isNew": "N",
+                "price": "free",
+                "urlLogo": "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif",
+                "urlImage": [
+                    "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif",
+                    "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif",
+                    "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif"
+                ]
+            },
+            {
+                "name": "Chewy",
+                "isNew": "N",
+                "price": "free",
+                "urlLogo": "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif",
+                "urlImage": [
+                    "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif",
+                    "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif",
+                    "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif"
+                ]
+            }
+        ]
+    }
+}
