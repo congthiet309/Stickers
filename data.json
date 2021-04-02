@@ -2,7 +2,7 @@
     "List": [
         {
             "categoryName": "Trendings",
-            "categorySticker": [
+            "packs": [
                 {
                     "id": "1",
                     "name": "Chewy",
@@ -31,7 +31,7 @@
         },
         {
             "categoryName": "New",
-            "categorySticker": [
+            "packs": [
                 {
                     "id": "3",
                     "name": "Chewy",
