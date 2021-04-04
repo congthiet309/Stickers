@@ -59,11 +59,11 @@
             ]
         },
         {
-            "categoryName": "New",
+            "categoryName": "Emojis",
             "packs": [
                 {
-                    "id": "3",
-                    "name": "Xeu",
+                    "id": "5",
+                    "name": "Emoji",
                     "isNew": "N",
                     "price": "free",
                     "urlLogo": "https://img.stipop.io/2021/3/22/1616409117245_oafXpOq4Z2.png",
@@ -74,7 +74,7 @@
                     ]
                 },
                 {
-                    "id": "4",
+                    "id": "6",
                     "name": "OKE",
                     "isNew": "N",
                     "price": "free",
@@ -88,10 +88,10 @@
             ]
         },
         {
-            "categoryName": "New",
+            "categoryName": "Cats&Dogs",
             "packs": [
                 {
-                    "id": "3",
+                    "id": "7",
                     "name": "Xeu",
                     "isNew": "N",
                     "price": "free",
@@ -103,7 +103,7 @@
                     ]
                 },
                 {
-                    "id": "4",
+                    "id": "8",
                     "name": "OKE",
                     "isNew": "N",
                     "price": "free",
