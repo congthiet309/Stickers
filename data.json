@@ -272,27 +272,238 @@
             "categoryName": "Cats&Dogs",
             "packs": [
                 {
-                    "id": "7",
-                    "name": "Xeu",
+                    "id": "15",
+                    "name": "Bell Cat",
                     "isNew": "N",
                     "price": "free",
-                    "urlLogo": "https://img.stipop.io/2021/3/22/1616409117245_oafXpOq4Z2.png",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/BellCat/Sticker1.PNG",
                     "urlImages": [
-                        "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif",
-                        "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif",
-                        "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif"
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/BellCat/Sticker1.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/BellCat/Sticker2.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/BellCat/Sticker3.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/BellCat/Sticker4.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/BellCat/Sticker5.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/BellCat/Sticker6.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/BellCat/Sticker7.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/BellCat/Sticker8.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/BellCat/Sticker9.PNG"
                     ]
                 },
                 {
-                    "id": "8",
-                    "name": "OKE",
+                    "id": "16",
+                    "name": "Cat",
                     "isNew": "N",
                     "price": "free",
-                    "urlLogo": "https://img.stipop.io/2021/3/21/1616316101191_rsWUoMKsHp.png",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cat/Sticker1.PNG",
                     "urlImages": [
-                        "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif",
-                        "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif",
-                        "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif"
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cat/Sticker1.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cat/Sticker2.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cat/Sticker3.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cat/Sticker4.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cat/Sticker5.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cat/Sticker6.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cat/Sticker7.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cat/Sticker8.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cat/Sticker9.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cat/Sticker10.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cat/Sticker11.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cat/Sticker12.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cat/Sticker13.PNG"
+                    ]
+                },
+                {
+                    "id": "16",
+                    "name": "Cats",
+                    "isNew": "N",
+                    "price": "free",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cats/Sticker1.PNG",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cats/Sticker1.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cats/Sticker2.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cats/Sticker3.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cats/Sticker4.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cats/Sticker5.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cats/Sticker6.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cats/Sticker7.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cats/Sticker8.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cats/Sticker9.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cats/Sticker10.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cats/Sticker11.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cats/Sticker12.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cats/Sticker13.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cats/Sticker14.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Cats/Sticker15.PNG"
+                    ]
+                },
+                {
+                    "id": "17",
+                    "name": "Corgi",
+                    "isNew": "N",
+                    "price": "free",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Corgi/Sticker1.PNG",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Corgi/Sticker1.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Corgi/Sticker2.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Corgi/Sticker3.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Corgi/Sticker4.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Corgi/Sticker5.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Corgi/Sticker6.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Corgi/Sticker7.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Corgi/Sticker8.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Corgi/Sticker9.PNG"
+                    ]
+                },
+                {
+                    "id": "18",
+                    "name": "Cute Cat",
+                    "isNew": "N",
+                    "price": "free",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/CuteCat/Sticker1.PNG",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/CuteCat/Sticker1.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/CuteCat/Sticker2.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/CuteCat/Sticker3.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/CuteCat/Sticker4.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/CuteCat/Sticker5.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/CuteCat/Sticker6.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/CuteCat/Sticker7.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/CuteCat/Sticker8.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/CuteCat/Sticker9.PNG"
+                    ]
+                },
+                {
+                    "id": "19",
+                    "name": "Dog",
+                    "isNew": "N",
+                    "price": "free",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Dog/Sticker1.PNG",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Dog/Sticker1.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Dog/Sticker2.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Dog/Sticker3.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Dog/Sticker4.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Dog/Sticker5.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Dog/Sticker6.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Dog/Sticker7.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Dog/Sticker8.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Dog/Sticker9.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Dog/Sticker10.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Dog/Sticker11.PNG"
+                    ]
+                },
+                {
+                    "id": "18",
+                    "name": "Dogs",
+                    "isNew": "N",
+                    "price": "free",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Dogs/Sticker1.PNG",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Dogs/Sticker1.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Dogs/Sticker2.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Dogs/Sticker3.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Dogs/Sticker4.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Dogs/Sticker5.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Dogs/Sticker6.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Dogs/Sticker7.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Dogs/Sticker8.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Dogs/Sticker9.PNG"
+                    ]
+                },
+                {
+                    "id": "19",
+                    "name": "Funny Cat",
+                    "isNew": "N",
+                    "price": "free",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/FunnyCat/Sticker1.PNG",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/FunnyCat/Sticker1.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/FunnyCat/Sticker2.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/FunnyCat/Sticker3.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/FunnyCat/Sticker4.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/FunnyCat/Sticker5.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/FunnyCat/Sticker6.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/FunnyCat/Sticker7.PNG"
+                    ]
+                },
+                {
+                    "id": "20",
+                    "name": "Grey Cat",
+                    "isNew": "N",
+                    "price": "free",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/GreyCat/Sticker1.PNG",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/GreyCat/Sticker1.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/GreyCat/Sticker2.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/GreyCat/Sticker3.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/GreyCat/Sticker4.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/GreyCat/Sticker5.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/GreyCat/Sticker6.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/GreyCat/Sticker7.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/GreyCat/Sticker8.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/GreyCat/Sticker9.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/GreyCat/Sticker10.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/GreyCat/Sticker11.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/GreyCat/Sticker12.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/GreyCat/Sticker13.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/GreyCat/Sticker14.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/GreyCat/Sticker15.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/GreyCat/Sticker16.PNG"
+                    ]
+                },
+                {
+                    "id": "21",
+                    "name": "Lovely Cat",
+                    "isNew": "N",
+                    "price": "free",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/LovelyCat/Sticker1.PNG",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/LovelyCat/Sticker1.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/LovelyCat/Sticker2.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/LovelyCat/Sticker3.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/LovelyCat/Sticker4.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/LovelyCat/Sticker5.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/LovelyCat/Sticker6.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/LovelyCat/Sticker7.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/LovelyCat/Sticker8.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/LovelyCat/Sticker9.PNG"
+                    ]
+                },
+                {
+                    "id": "22",
+                    "name": "Poppy",
+                    "isNew": "N",
+                    "price": "free",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Poppy/Sticker1.PNG",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Poppy/Sticker1.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Poppy/Sticker2.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Poppy/Sticker3.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Poppy/Sticker4.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Poppy/Sticker5.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Poppy/Sticker6.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Poppy/Sticker7.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Poppy/Sticker8.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/Poppy/Sticker9.PNG"
+                    ]
+                },
+                {
+                    "id": "23",
+                    "name": "Unicorn Dog",
+                    "isNew": "N",
+                    "price": "free",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/UnicornDog/Sticker1.PNG",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/UnicornDog/Sticker1.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/UnicornDog/Sticker2.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/UnicornDog/Sticker3.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/UnicornDog/Sticker4.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/UnicornDog/Sticker5.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/UnicornDog/Sticker6.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/UnicornDog/Sticker7.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/UnicornDog/Sticker8.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/UnicornDog/Sticker9.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/UnicornDog/Sticker10.PNG",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/CatsDogs/UnicornDog/Sticker11.PNG"
                     ]
                 }
             ]
