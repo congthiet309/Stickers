@@ -68,6 +68,39 @@
             "categoryName": "Emojis",
             "packs": [
                 {
+                    "id": "4",
+                    "name": "Animated Emoji",
+                    "isNew": "N",
+                    "price": "free",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmoji/Sticker6.png",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmoji/Sticker1.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmoji/Sticker2.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmoji/Sticker3.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmoji/Sticker4.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmoji/Sticker5.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmoji/Sticker6.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmoji/Sticker7.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmoji/Sticker8.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmoji/Sticker9.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmoji/Sticker10.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmoji/Sticker11.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmoji/Sticker12.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmoji/Sticker13.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmoji/Sticker14.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmoji/Sticker15.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmoji/Sticker16.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmoji/Sticker17.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmoji/Sticker18.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmoji/Sticker19.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmoji/Sticker20.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmoji/Sticker21.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmoji/Sticker22.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmoji/Sticker23.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmoji/Sticker24.png"
+                    ]
+                },
+                {
                     "id": "5",
                     "name": "Emoji",
                     "isNew": "N",
@@ -102,7 +135,7 @@
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/EmojiCute/Sticker7.png",
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/EmojiCute/Sticker8.png",
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/EmojiCute/Sticker9.png"
-
+                        
                     ]
                 },
                 {
