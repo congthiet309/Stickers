@@ -4,9 +4,8 @@
             "categoryName": "Trendings",
             "packs": [
                 {
-                    "id": "0",
+                    "animated": "Y",
                     "name": "Chịt",
-                    "isNew": "N",
                     "price": "free",
                     "urlLogo": "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif",
                     "urlImages": [
@@ -16,9 +15,8 @@
                     ]
                 },
                 {
-                    "id": "1",
+                    "animated": "Y",
                     "name": "Chewy",
-                    "isNew": "N",
                     "price": "ads",
                     "urlLogo": "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif",
                     "urlImages": [
@@ -28,9 +26,8 @@
                     ]
                 },
                 {
-                    "id": "2",
+                    "animated": "Y",
                     "name": "Chuot",
-                    "isNew": "N",
                     "price": "pro",
                     "urlLogo": "https://img.stipop.io/2021/3/28/1616921224041_iQM7uPbXzM.png",
                     "urlImages": [
@@ -51,9 +48,8 @@
             "categoryName": "Animated",
             "packs": [
                 {
-                    "id": "3",
+                    "animated": "Y",
                     "name": "Baby",
-                    "isNew": "N",
                     "price": "pro",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animated/Baby/Sticker1.gif",
                     "urlImages": [
@@ -84,9 +80,8 @@
                     ]
                 },
                 {
-                    "id": "4",
+                    "animated": "Y",
                     "name": "Bear",
-                    "isNew": "N",
                     "price": "pro",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animated/Bear/Sticker1.gif",
                     "urlImages": [
@@ -117,9 +112,8 @@
                     ]
                 },
                 {
-                    "id": "4",
+                    "animated": "Y",
                     "name": "Black Cat",
-                    "isNew": "N",
                     "price": "pro",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animated/BlackCat/Sticker1.gif",
                     "urlImages": [
@@ -150,9 +144,8 @@
                     ]
                 },
                 {
-                    "id": "4",
+                    "animated": "Y",
                     "name": "Catty",
-                    "isNew": "N",
                     "price": "pro",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animated/Catty/Sticker1.gif",
                     "urlImages": [
@@ -183,9 +176,8 @@
                     ]
                 },
                 {
-                    "id": "4",
+                    "animated": "Y",
                     "name": "Chubby",
-                    "isNew": "N",
                     "price": "pro",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animated/Chubby/Sticker1.gif",
                     "urlImages": [
@@ -216,9 +208,8 @@
                     ]
                 },
                 {
-                    "id": "4",
+                    "animated": "Y",
                     "name": "Corgi Nice",
-                    "isNew": "N",
                     "price": "pro",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animated/CorgiNice/Sticker1.gif",
                     "urlImages": [
@@ -249,9 +240,8 @@
                     ]
                 },
                 {
-                    "id": "4",
+                    "animated": "Y",
                     "name": "Cute Cat",
-                    "isNew": "N",
                     "price": "pro",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animated/CuteCat/Sticker1.gif",
                     "urlImages": [
@@ -282,9 +272,8 @@
                     ]
                 },
                 {
-                    "id": "4",
+                    "animated": "Y",
                     "name": "Doggy",
-                    "isNew": "N",
                     "price": "pro",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animated/Doggy/Sticker1.gif",
                     "urlImages": [
@@ -315,9 +304,8 @@
                     ]
                 },
                 {
-                    "id": "4",
+                    "animated": "Y",
                     "name": "Emoticon",
-                    "isNew": "N",
                     "price": "pro",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animated/Emoticon/Sticker1.gif",
                     "urlImages": [
@@ -348,9 +336,8 @@
                     ]
                 },
                 {
-                    "id": "4",
+                    "animated": "Y",
                     "name": "Girl",
-                    "isNew": "N",
                     "price": "pro",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animated/Girl/Sticker1.gif",
                     "urlImages": [
@@ -381,9 +368,8 @@
                     ]
                 },
                 {
-                    "id": "4",
+                    "animated": "Y",
                     "name": "Happy Pig",
-                    "isNew": "N",
                     "price": "pro",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animated/HappyPig/Sticker1.gif",
                     "urlImages": [
@@ -414,9 +400,8 @@
                     ]
                 },
                 {
-                    "id": "4",
+                    "animated": "Y",
                     "name": "Jesus",
-                    "isNew": "N",
                     "price": "pro",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animated/Jesus/Sticker1.gif",
                     "urlImages": [
@@ -443,9 +428,8 @@
                     ]
                 },
                 {
-                    "id": "4",
+                    "animated": "Y",
                     "name": "Kitty",
-                    "isNew": "N",
                     "price": "pro",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animated/Kitty/Sticker1.gif",
                     "urlImages": [
@@ -476,9 +460,8 @@
                     ]
                 },
                 {
-                    "id": "4",
+                    "animated": "Y",
                     "name": "Little Pig",
-                    "isNew": "N",
                     "price": "pro",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animated/LittlePig/Sticker1.gif",
                     "urlImages": [
@@ -509,9 +492,8 @@
                     ]
                 },
                 {
-                    "id": "4",
+                    "animated": "Y",
                     "name": "Mouse",
-                    "isNew": "N",
                     "price": "pro",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animated/Mouse/Sticker1.gif",
                     "urlImages": [
@@ -542,9 +524,8 @@
                     ]
                 },
                 {
-                    "id": "4",
+                    "animated": "Y",
                     "name": "Puppy",
-                    "isNew": "N",
                     "price": "pro",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animated/Puppy/Sticker1.gif",
                     "urlImages": [
@@ -575,9 +556,8 @@
                     ]
                 },
                 {
-                    "id": "4",
+                    "animated": "Y",
                     "name": "rabbit",
-                    "isNew": "N",
                     "price": "pro",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animated/rabbit/Sticker1.gif",
                     "urlImages": [
@@ -608,9 +588,8 @@
                     ]
                 },
                 {
-                    "id": "4",
+                    "animated": "Y",
                     "name": "White Cat",
-                    "isNew": "N",
                     "price": "pro",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animated/WhiteCat/Sticker1.gif",
                     "urlImages": [
@@ -646,9 +625,8 @@
             "categoryName": "Emojis",
             "packs": [
                 {
-                    "id": "4",
+                    "animated": "Y",
                     "name": "Animated Emoji",
-                    "isNew": "N",
                     "price": "free",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmoji/Sticker6.gif",
                     "urlImages": [
@@ -679,9 +657,8 @@
                     ]
                 },
                 {
-                    "id": "5",
+                    "animated": "N",
                     "name": "Emoji",
-                    "isNew": "N",
                     "price": "free",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/Emoji/Sticker6.png",
                     "urlImages": [
@@ -698,9 +675,8 @@
                     ]
                 },
                 {
-                    "id": "6",
+                    "animated": "N",
                     "name": "Emoji Cute",
-                    "isNew": "N",
                     "price": "free",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/EmojiCute/Sticker1.png",
                     "urlImages": [
@@ -717,9 +693,8 @@
                     ]
                 },
                 {
-                    "id": "7",
+                    "animated": "N",
                     "name": "Emoji Fun",
-                    "isNew": "N",
                     "price": "free",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/EmojiFun/Sticker1.png",
                     "urlImages": [
@@ -744,9 +719,8 @@
                     ]
                 },
                 {
-                    "id": "8",
+                    "animated": "N",
                     "name": "Emoji Love",
-                    "isNew": "N",
                     "price": "free",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/EmojiLove/Sticker1.png",
                     "urlImages": [
@@ -763,9 +737,8 @@
                     ]
                 },
                 {
-                    "id": "9",
+                    "animated": "N",
                     "name": "Emoji Pack",
-                    "isNew": "N",
                     "price": "free",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/EmojiPack/Sticker1.png",
                     "urlImages": [
@@ -782,9 +755,8 @@
                     ]
                 },
                 {
-                    "id": "10",
+                    "animated": "N",
                     "name": "Emojis",
-                    "isNew": "N",
                     "price": "free",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/Emojis/Sticker1.png",
                     "urlImages": [
@@ -815,9 +787,8 @@
                     ]
                 },
                 {
-                    "id": "11",
+                    "animated": "N",
                     "name": "Emoji Smile",
-                    "isNew": "N",
                     "price": "free",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/EmojiSmile/Sticker1.png",
                     "urlImages": [
@@ -840,9 +811,8 @@
                     ]
                 },
                 {
-                    "id": "12",
+                    "animated": "N",
                     "name": "Emoji Cool",
-                    "isNew": "N",
                     "price": "free",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/EmojiCool/Sticker1.png",
                     "urlImages": [
@@ -865,9 +835,8 @@
                     ]
                 },
                 {
-                    "id": "14",
+                    "animated": "N",
                     "name": "Poop",
-                    "isNew": "N",
                     "price": "free",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/Poop/Sticker1.png",
                     "urlImages": [
@@ -889,9 +858,8 @@
             "categoryName": "Cats&Dogs",
             "packs": [
                 {
-                    "id": "15",
+                    "animated": "N",
                     "name": "Bell Cat",
-                    "isNew": "N",
                     "price": "free",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/BellCat/Sticker1.png",
                     "urlImages": [
@@ -907,9 +875,8 @@
                     ]
                 },
                 {
-                    "id": "16",
+                    "animated": "N",
                     "name": "Cat",
-                    "isNew": "N",
                     "price": "free",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/Cat/Sticker1.png",
                     "urlImages": [
@@ -929,9 +896,8 @@
                     ]
                 },
                 {
-                    "id": "16",
+                    "animated": "N",
                     "name": "Cats",
-                    "isNew": "N",
                     "price": "free",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/Cats/Sticker1.png",
                     "urlImages": [
@@ -953,9 +919,8 @@
                     ]
                 },
                 {
-                    "id": "17",
+                    "animated": "N",
                     "name": "Corgi",
-                    "isNew": "N",
                     "price": "free",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/Corgi/Sticker1.png",
                     "urlImages": [
@@ -971,9 +936,8 @@
                     ]
                 },
                 {
-                    "id": "18",
+                    "animated": "N",
                     "name": "Cute Cat",
-                    "isNew": "N",
                     "price": "free",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/CuteCat/Sticker1.png",
                     "urlImages": [
@@ -989,9 +953,8 @@
                     ]
                 },
                 {
-                    "id": "19",
+                    "animated": "N",
                     "name": "Dog",
-                    "isNew": "N",
                     "price": "free",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/Dog/Sticker1.png",
                     "urlImages": [
@@ -1009,9 +972,8 @@
                     ]
                 },
                 {
-                    "id": "18",
+                    "animated": "N",
                     "name": "Dogs",
-                    "isNew": "N",
                     "price": "free",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/Dogs/Sticker1.png",
                     "urlImages": [
@@ -1027,9 +989,8 @@
                     ]
                 },
                 {
-                    "id": "19",
+                    "animated": "N",
                     "name": "Funny Cat",
-                    "isNew": "N",
                     "price": "free",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/FunnyCat/Sticker1.png",
                     "urlImages": [
@@ -1043,9 +1004,8 @@
                     ]
                 },
                 {
-                    "id": "20",
+                    "animated": "N",
                     "name": "Grey Cat",
-                    "isNew": "N",
                     "price": "free",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/GreyCat/Sticker1.png",
                     "urlImages": [
@@ -1068,9 +1028,8 @@
                     ]
                 },
                 {
-                    "id": "21",
+                    "animated": "N",
                     "name": "Lovely Cat",
-                    "isNew": "N",
                     "price": "free",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/LovelyCat/Sticker1.png",
                     "urlImages": [
@@ -1086,9 +1045,8 @@
                     ]
                 },
                 {
-                    "id": "22",
+                    "animated": "N",
                     "name": "Poppy",
-                    "isNew": "N",
                     "price": "free",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/Poppy/Sticker1.png",
                     "urlImages": [
@@ -1104,9 +1062,8 @@
                     ]
                 },
                 {
-                    "id": "23",
+                    "animated": "N",
                     "name": "Unicorn Dog",
-                    "isNew": "N",
                     "price": "free",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/UnicornDog/Sticker1.png",
                     "urlImages": [
