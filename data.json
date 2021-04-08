@@ -4,10 +4,22 @@
             "categoryName": "Trendings",
             "packs": [
                 {
+                    "id": "0",
+                    "name": "Chịt",
+                    "isNew": "N",
+                    "price": "free",
+                    "urlLogo": "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif",
+                    "urlImages": [
+                        "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif",
+                        "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif",
+                        "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif"
+                    ]
+                },
+                ,{
                     "id": "1",
                     "name": "Chewy",
                     "isNew": "N",
-                    "price": "free",
+                    "price": "ads",
                     "urlLogo": "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif",
                     "urlImages": [
                         "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif",
@@ -19,7 +31,7 @@
                     "id": "2",
                     "name": "Chuot",
                     "isNew": "N",
-                    "price": "free",
+                    "price": "pro",
                     "urlLogo": "https://img.stipop.io/2021/3/28/1616921224041_iQM7uPbXzM.png",
                     "urlImages": [
                         "https://img.stipop.io/2021/3/28/1616921224041_iQM7uPbXzM.png",
