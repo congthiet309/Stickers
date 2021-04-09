@@ -1,4 +1,4 @@
-PRIVATE POLICY AND TERMS OF USE
+TERMS OF USE
 Welcome to use Sticker's service.
 
 Welcome to use the service of Sticker, when you use our service, you trust us with your information. So we've developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions.
@@ -127,7 +127,7 @@ This Agreement is subject to occasional revision, and if we make any substantial
 
 9.2 Notice
 
-Any notice provided to Sticker pursuant to this Agreement should be sent to: admin@ptschic.com.
+Any notice provided to Sticker pursuant to this Agreement
 
 9.3 Severability
 
