@@ -1,82 +1,54 @@
-Privacy Policy
+PRIVATE POLICY
+Welcome to use Sticker's service.
 
-1. About this policy
+Welcome to use the service of Sticker, when you use our service, you trust us with your information. So we've developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions.
 
-We know your privacy is important to you. It’s important to us, too. So this Privacy Policy will help you, as a user of the Services, understand what information we may gather about you, how we use it, and how we work to protect it. This Privacy Policy forms part of the Terms of Use that govern your use of the Services. Defined terms not otherwise defined in this Privacy Policy are defined in the Terms of Use. In visiting the Websites, downloading the App or otherwise using the Services, you are consenting to the information practices outlined in this Privacy Policy, and to the Terms of Use.
+(1)Collection of Information
 
-Basically, if you’re using 'Phone Detector', you agree to this Privacy Policy. If you don’t agree (but we hope you will), don’t use this app. 
+The data we collect depends on the context of your interactions with us, the choices you make, including your privacy settings, and the products and features you use. The data we collect can include SDK/API/JS code version, browser, Internet service provider, IP address, platform, timestamp, application identifier, application version, application distribution channel, independent device identifier, ad identifier (IDFA), Android ad master identifier, network card (MAC) address, and international mobile device identification code (IMEI) The equipment model, the terminal manufacturer, the terminal device operating system version, the session start / stop time, the location of the language, the time zone and the network state (WiFi and so on) etc.
 
-​
+For example, some of our services require you to sign up with your social media account or phone number. When you do, we’ll ask for personal information like your email address, telephone number to store with your account. If you want to take full advantage of the sharing features we offer, we might also ask you to register with a Facebook account or telephone number, which may include your Facebook name and photo.
 
-2. Information covered by this policy
+(2)Use of Personal Data
 
-This Privacy Policy applies to Personal Information. “Personal Information” is personally identifiable information that can be used to contact you or determine your identity. When other information is linked to this personally identifiable information, it may also become Personal Information.
+For example, some of our services require you to sign up with your social media account or phone number. When you do, we’ll ask for personal information like your email address, telephone number to store with your account. If you want to take full advantage of the sharing features we offer, we might also ask you to register with a Facebook account or telephone number, which may include your Facebook name and photo.
 
-​
+Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes.
 
-Depending on the privacy laws where you live, Personal Information may include your name, personal email address, phone number, billing information, shipping address, device ID, or account login credentials, such as your login for sites like Facebook, Twitter, Google, or other third party websites or apps (your “Social Logins”). 
+We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.
 
-​
+(3)Sharing of Personal Data:
 
-This Privacy Policy applies to Personal Information that you provide to us, or Personal Information provided to us on your behalf by a third party, including through a Social Login.  
+We do not share personal information with companies, organizations and individuals outside of Infinity Scratch unless one of the following circumstances applies: With your consent
 
-We want to be clear: unless we or a third party tells you otherwise, we won’t ask a third party to hand over your Personal Information in order for us to provide you with the Services. This Privacy Policy does not apply to the practices of those third parties with respect to how they themselves collect or use Personal Information in the course of their own business. Also, this Privacy Policy doesn’t cover any advertisements from third parties you may see while using our Services, nor does it cover content in the Services that links to third party websites. You’ll have to check with them to find their privacy policy.  
+We will share personal information with companies, organizations or individuals outside of Infinity Scratch when we have your consent to do so. We require opt-in consent for the sharing of any sensitive personal information. For external processing
 
-​
+We provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
 
-3. It’s all about you
- 
-Readers are at the center of every decision we make at this app. We collect, use, share and process your Personal Information, we promise it’s not to creep you out, but only to make your experience even better. By “better” we mean, customized to you – we want to recommend stories and content we think you’ll love, and allow you to save and share the ones you do.   
+For legal reasons
 
-If you want to get technical about it, there are a number of reasons we collect and use your Personal Information. For example, we do so in order to deliver the Services to you as required by the Terms of Use, including providing customer support to you when you need it. We also use it to comply with our contractual obligations to our publishing partners, and to help our product development team build a better app product that better reflects your interests.
+We will share personal information with companies, organizations or individuals outside of Infinity Scratch if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to meet any applicable law, regulation, Legal process or enforceable governmental request. enforce applicable Terms of Service, including investigation of potential violations.detect, prevent, or otherwise address fraud, security or technical issues.protect against harm to the rights, property or safety of Infinity Scratch, our users or the public as required or permitted by law.
 
-​
+We may share non-personal publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly to show trends about the general use of our services.
 
-4. Some Personal Information is required to access certain features or Services
+We also share personal data with vendors or agents working on our behalf for the purposes described in this privacy policy. For example, companies we’ve hired to provide data analytical services may need collect and access to personal data to provide those functions. In such cases, these companies must abide by our data privacy and security requirements.
 
-Certain features or Services will only be available to you if you create a Registered Account. When you create a Registered Account, we ask you for basic registration information, including your name and email address or Social Login. This is the minimum information you will need to provide in order to create a Registered Account.  You will be required to create a Registered Account to fully use and enjoy the features associated with a Trial, Subscription, Single Issue Purchase, or Gifted Issue.
+If Infinity Scratch is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.
 
-​
+(4)Information security:
 
-If you purchase a Subscription or make a Single Issue Purchase, we will also collect billing information such as your credit card number, expiry date, and billing address.
+We work hard to protect Infinity Scratch and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular:
 
-Sponsored Access may not necessarily require you to create a Registered Account.
+We encrypt many of our service using SSL.
 
+We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems.
 
-5. Cookies (not the chocolate chip kind)
+We restrict access to personal information to Infinity Scratch employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
 
-A cookie is a small amount of data which often includes an anonymous unique identifier that is sent to your browser from a website’s computers and stored on your computer’s hard drive. Each website can send its own cookies to your browser if your browser’s preferences allow it. However, to protect your privacy, most browsers only permit a website to access the cookies that the same website has already sent to you, not the cookies sent to you by other sites.
+(5)International Transfers of Personal Data
 
-​
+Our business may require us to transfer your Personal Data to countries to countries such as the People’s Republic of China or Singapore. We take appropriate steps to ensure that recipients of your Personal Data are bound to duties of confidentiality and security requirements.
 
-This app sets and accesses our own cookies on your computer. We use them to identify you as a repeat visitor, to maintain session information for logged-in users, and to track usage trends and patterns. That helps us better understand and improve areas of the Websites. 
+(6)Changes and updates to this policy:
 
-This app also allows third parties who are providing content on our Websites to set and access their own cookies on your computer. Third parties’ use of cookies is subject to their own privacy policies. We do not have access to any information stored by third parties about you.
-
-You can find more information about the types of cookies that we use on the Cookies page.
-
-​
-
-6. When we disclose Personal Information
-
-In general, we will not disclose Personal Information to unaffiliated third parties without your express consent. However, there may be circumstances where we may need to disclose Personal Information about you to an unaffiliated third party. For instance:
-
-When this app employs other third parties to perform functions on our behalf, such as fulfilling orders, providing customer service, sending mail, processing credit card payments, processing currency conversions, or other functions necessary to our business;
-If publishers of the Publications request additional Personal Information from us. The information practices of those publishers will be governed by their own privacy policies;
-If we believe you are harming or interfering with the enjoyment of the Services of other users, anyone else, or violating the terms of your Subscription, Trial, Sponsored Access or Gifted Issue, or violating the Terms of Use, or if we believe you are infringing any of this app or a third party’s legal rights;
-If we are required by applicable law (or court order) to provide any of your Personal Information. We will, if permitted by applicable law or the terms of a court order, attempt to notify you via the email address you supplied when creating your Registered Account before we respond to the request;
-In the event of a sale of all or most of this app’s assets, this information may be transferred to the purchaser so they may continue to provide the Services to you.
- 
-7. How we use and disclose Anonymous Information
-
-“Anonymous Information” is any information other than Personal Information, including aggregated information that we derive from Personal Information. We make sure that Anonymous Information does not include any Personal Information.
-
-This app may use Anonymous Information:
-
-To improve the Websites, the App, and the Services;
-To deliver the Services;
-To monitor traffic and general usage patterns;
-To inform publishers as to what content is appealing to certain users of the Services;
-To inform advertisers of the usage habits or characteristics of certain users of the Services;
-To advise potential investors so that they may better understand the app user base; and
-To provide you with an improved experience when using the Websites, the App, and the Services
+Changes and updates to this policy: We may occasionally update this Policy. When we do, we will also revise the "last updated" date at the bottom of the Policy. Your continued use of the Services after a revised Policy has become effective indicates that you have read, understood and agreed to the then-current version of the Policy. If we change this Policy in a manner that is materially less restrictive of our use or disclosure of your personal information, we will use reasonable efforts to notify you of the change and to obtain your consent prior to applying the change to any personal information that we collected from you prior to the date the change becomes effective. For example, we may send a message to your email address, if we have one on file, message you through the Services, or generate a pop-up or similar notification when you access the Services for the first time after such material changes are made. Material changes to this Policy will be effective upon the earlier of (i) your first use of any of the Services with actual knowledge of such change, or (ii) 30 days from providing you notice of such change as described in this section. We encourage you to periodically review this Policy to stay informed about how we collect, use, and disclose information.
