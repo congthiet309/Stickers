@@ -6,7 +6,7 @@
                 {
                     "animated": "Y",
                     "name": "Emoji Pro 1",
-                    "price": "pro",
+                    "price": "ads",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animated/EmojiPro1/Sticker1.gif",
                     "urlImages": [
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro1/Sticker1.gif",
@@ -31,10 +31,10 @@
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro1/Sticker20.gif",
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro1/Sticker21.gif",
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro1/Sticker22.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro1/Sticker23.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro1/Sticker24.gif"
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro1/Sticker23.gif"
                     ]
-                },{
+                },
+                {
                     "animated": "Y",
                     "name": "Emoji Pro 2”,
                     "price": "pro",
@@ -62,8 +62,7 @@
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro2/Sticker20.gif",
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro2/Sticker21.gif",
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro2/Sticker22.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro2/Sticker23.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro2/Sticker24.gif"
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro2/Sticker23.gif"
                     ]
                 },
                 {
@@ -94,8 +93,7 @@
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro3/Sticker20.gif",
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro3/Sticker21.gif",
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro3/Sticker22.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro3/Sticker23.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro3/Sticker24.gif"
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro3/Sticker23.gif"
                     ]
                 },
                 {
@@ -126,8 +124,7 @@
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro4/Sticker20.gif",
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro4/Sticker21.gif",
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro4/Sticker22.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro4/Sticker23.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro4/Sticker24.gif"
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro4/Sticker23.gif"
                     ]
                 },
                 {
@@ -158,19 +155,7 @@
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro5/Sticker20.gif",
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro5/Sticker21.gif",
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro5/Sticker22.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro5/Sticker23.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro5/Sticker24.gif"
-                    ]
-                }
-                {
-                    "animated": "Y",
-                    "name": "Chewy",
-                    "price": "ads",
-                    "urlLogo": "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif",
-                    "urlImages": [
-                        "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif",
-                        "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif",
-                        "https://img.stipop.io/2021/3/22/1616341996390_ZRVrV7DIvF.gif"
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro5/Sticker23.gif"
                     ]
                 },
                 {
@@ -262,7 +247,7 @@
                 {
                     "animated": "Y",
                     "name": "Cute Cat",
-                    "price": "pro",
+                    "price": "ads",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animated/CuteCat/Sticker1.gif",
                     "urlImages": [
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animated/CuteCat/Sticker1.gif",
@@ -775,7 +760,7 @@
                 {
                     "animated": "N",
                     "name": "Emoji",
-                    "price": "free",
+                    "price": "ads",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/Emoji/Sticker6.png",
                     "urlImages": [
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/Emoji/Sticker1.png",
