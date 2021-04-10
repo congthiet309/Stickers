@@ -4,6 +4,22 @@
             "categoryName": "Trendings",
             "packs": [
                 {
+                    "animated": "N",
+                    "name": "Funny”,
+                    "price": "pro",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/Funny/Sticker3.png",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/Funny/Sticker1.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/Funny/Sticker2.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/Funny/Sticker3.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/Funny/Sticker4.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/Funny/Sticker5.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/Funny/Sticker6.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/Funny/Sticker7.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/Funny/Sticker8.png"
+                    ]
+                },
+                {
                     "animated": "Y",
                     "name": "Emoji Pro 1",
                     "price": "ads",
@@ -742,6 +758,29 @@
             "packs": [
                 {
                     "animated": "N",
+                    "name": "Emojis Animated",
+                    "price": "free",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmojis/Sticker8.gif",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmojis/Sticker1.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmojis/Sticker2.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmojis/Sticker3.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmojis/Sticker4.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmojis/Sticker5.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmojis/Sticker6.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmojis/Sticker7.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmojis/Sticker8.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmojis/Sticker9.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmojis/Sticker10.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmojis/Sticker11.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmojis/Sticker12.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmojis/Sticker13.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmojis/Sticker14.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmojis/Sticker15.gif"
+                    ]
+                },
+                {
+                    "animated": "N",
                     "name": "Emoji",
                     "price": "ads",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/Emoji/Sticker6.png",
@@ -1195,6 +1234,268 @@
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/Poppy/Sticker7.png",
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/Poppy/Sticker8.png",
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/Poppy/Sticker9.png"
+                    ]
+                }
+                
+            ]
+        },
+        {
+            "categoryName": "Text",
+            "packs": [
+                {
+                    "animated": "N",
+                    "name": "Color Text",
+                    "price": "pro",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ColorText/Sticker10.png",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ColorText/Sticker1.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ColorText/Sticker2.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ColorText/Sticker3.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ColorText/Sticker4.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ColorText/Sticker5.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ColorText/Sticker6.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ColorText/Sticker7.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ColorText/Sticker8.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ColorText/Sticker9.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ColorText/Sticker10.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ColorText/Sticker11.png"
+                    ]
+                },
+                {
+                    "animated": "N",
+                    "name": "Comic Text",
+                    "price": "ads",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker19.png",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker1.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker2.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker3.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker4.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker5.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker6.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker7.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker8.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker9.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker10.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker11.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker12.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker13.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker14.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker15.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker16.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker17.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker18.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker19.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker20.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker21.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker22.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker23.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker24.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker25.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker26.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker27.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker28.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker29.png"
+                    ]
+                },
+                {
+                    "animated": "N",
+                    "name": "Cool Text",
+                    "price": "pro",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/EmojiPro2/Sticker1.gif",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker1.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker2.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker3.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker4.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker5.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker6.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker7.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker8.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker9.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker10.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker11.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/ComicText/Sticker12.png"
+                    ]
+                },
+                {
+                    "animated": "N",
+                    "name": "Creetings",
+                    "price": "pro",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Creetings/Sticker1.png",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Creetings/Sticker1.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Creetings/Sticker2.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Creetings/Sticker3.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Creetings/Sticker4.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Creetings/Sticker5.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Creetings/Sticker6.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Creetings/Sticker7.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Creetings/Sticker8.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Creetings/Sticker9.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Creetings/Sticker10.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Creetings/Sticker11.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Creetings/Sticker12.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Creetings/Sticker13.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Creetings/Sticker14.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Creetings/Sticker15.png"
+                    ]
+                },
+                {
+                    "animated": "N",
+                    "name": "Funny Text",
+                    "price": "pro",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/FunnyText/Sticker1.png",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/FunnyText/Sticker1.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/FunnyText/Sticker2.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/FunnyText/Sticker3.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/FunnyText/Sticker4.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/FunnyText/Sticker5.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/FunnyText/Sticker6.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/FunnyText/Sticker7.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/FunnyText/Sticker8.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/FunnyText/Sticker9.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/FunnyText/Sticker10.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/FunnyText/Sticker11.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/FunnyText/Sticker12.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/FunnyText/Sticker13.png"
+                    ]
+                },
+                {
+                    "animated": "N",
+                    "name": "Girl Power",
+                    "price": "pro",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/GirlPower/Sticker1.png",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/GirlPower/Sticker1.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/GirlPower/Sticker2.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/GirlPower/Sticker3.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/GirlPower/Sticker4.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/GirlPower/Sticker5.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/GirlPower/Sticker6.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/GirlPower/Sticker7.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/GirlPower/Sticker8.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/GirlPower/Sticker9.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/GirlPower/Sticker10.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/GirlPower/Sticker11.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/GirlPower/Sticker12.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/GirlPower/Sticker13.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/GirlPower/Sticker14.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/GirlPower/Sticker15.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/GirlPower/Sticker16.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/GirlPower/Sticker17.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/GirlPower/Sticker18.png"
+                    ]
+                },
+                {
+                    "animated": "N",
+                    "name": "Messages",
+                    "price": "pro",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Messages/Sticker1.png",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Messages/Sticker1.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Messages/Sticker2.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Messages/Sticker3.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Messages/Sticker4.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Messages/Sticker5.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Messages/Sticker6.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Messages/Sticker7.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Messages/Sticker8.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Messages/Sticker9.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Messages/Sticker10.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Messages/Sticker11.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Messages/Sticker12.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Messages/Sticker13.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Messages/Sticker14.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Messages/Sticker15.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Messages/Sticker16.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Messages/Sticker17.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Messages/Sticker18.png"
+                    ]
+                },
+                {
+                    "animated": "N",
+                    "name": "Words Text",
+                    "price": "pro",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/WordsText/Sticker1.png",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/WordsText/Sticker1.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/WordsText/Sticker2.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/WordsText/Sticker3.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/WordsText/Sticker4.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/WordsText/Sticker5.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/WordsText/Sticker6.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/WordsText/Sticker7.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/WordsText/Sticker8.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/WordsText/Sticker9.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/WordsText/Sticker10.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/WordsText/Sticker11.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "categoryName": "Love",
+            "packs": [
+                {
+                    "animated": "N",
+                    "name": "Couple”,
+                    "price": "pro",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker3.png",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker1.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker2.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker3.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker4.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker5.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker6.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker7.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker8.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker9.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker10.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker11.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker12.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker13.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker14.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker15.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker16.png",
+                    ]
+                },
+                {
+                    "animated": "N",
+                    "name": "Lovely”,
+                    "price": "pro",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Lovely/Sticker3.png",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Lovely/Sticker1.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Lovely/Sticker2.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Lovely/Sticker3.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Lovely/Sticker4.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Lovely/Sticker5.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Lovely/Sticker6.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Lovely/Sticker7.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Lovely/Sticker8.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Lovely/Sticker9.png"
+                    ]
+                },
+                {
+                    "animated": "N",
+                    "name": "Sketch”,
+                    "price": "pro",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Sketch/Sticker3.png",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Sketch/Sticker1.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Sketch/Sticker2.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Sketch/Sticker3.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Sketch/Sticker4.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Sketch/Sticker5.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Sketch/Sticker6.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Sketch/Sticker7.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Sketch/Sticker8.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Sketch/Sticker9.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Sketch/Sticker10.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Sketch/Sticker11.png"
                     ]
                 }
                 
