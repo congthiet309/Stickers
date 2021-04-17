@@ -4,6 +4,29 @@
             "categoryName": "Trendings",
             "packs": [
                 {
+                    "animated": "Y",
+                    "name": "Base Dog",
+                    "price": "pro",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/BaseDog/Sticker1.gif",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/BaseDog/Sticker1.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/BaseDog/Sticker2.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/BaseDog/Sticker3.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/BaseDog/Sticker4.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/BaseDog/Sticker5.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/BaseDog/Sticker6.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/BaseDog/Sticker7.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/BaseDog/Sticker8.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/BaseDog/Sticker9.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/BaseDog/Sticker10.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/BaseDog/Sticker11.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/BaseDog/Sticker12.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/BaseDog/Sticker13.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/BaseDog/Sticker14.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/BaseDog/Sticker15.gif"
+                    ]
+                },
+                {
                     "animated": "N",
                     "name": "Funny",
                     "price": "pro",
