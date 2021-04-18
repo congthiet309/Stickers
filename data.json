@@ -55,7 +55,7 @@
                     "animated": "Y",
                     "name": "Cat Emoticons",
                     "price": "pro",
-                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/CatEmoticons/Sticker1.gif",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/CatEmoticons/Sticker10.gif",
                     "urlImages": [
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/CatEmoticons/Sticker1.gif",
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/CatEmoticons/Sticker2.gif",
@@ -79,7 +79,7 @@
                     "animated": "Y",
                     "name": "Base Dog",
                     "price": "pro",
-                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/BaseDog/Sticker1.gif",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/BaseDog/Sticker10.gif",
                     "urlImages": [
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/BaseDog/Sticker1.gif",
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Trendings/BaseDog/Sticker2.gif",
@@ -310,7 +310,7 @@
                     "animated": "Y",
                     "name": "Corgi Nice",
                     "price": "pro",
-                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animated/CorgiNice/Sticker1.gif",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animated/CorgiNice/Sticker8.gif",
                     "urlImages": [
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animated/CorgiNice/Sticker1.gif",
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animated/CorgiNice/Sticker2.gif",
@@ -1432,25 +1432,25 @@
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/CoolBear/Sticker7.gif",
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/CoolBear/Sticker8.gif"
                     ]
-                },
-                {
+                },{
                     "animated": "Y",
-                    "name": "Cute Emoji",
+                    "name": "Nei Rabbit",
                     "price": "pro",
-                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/CuteEmoji/Sticker3.gif",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/NeiRabbit/Sticker3.gif",
                     "urlImages": [
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/CuteEmoji/Sticker1.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/CuteEmoji/Sticker2.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/CuteEmoji/Sticker3.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/CuteEmoji/Sticker4.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/CuteEmoji/Sticker5.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/CuteEmoji/Sticker6.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/CuteEmoji/Sticker7.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/CuteEmoji/Sticker8.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/CuteEmoji/Sticker9.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/CuteEmoji/Sticker10.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/CuteEmoji/Sticker11.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/CuteEmoji/Sticker12.gif"
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/NeiRabbit/Sticker1.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/NeiRabbit/Sticker2.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/NeiRabbit/Sticker3.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/NeiRabbit/Sticker4.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/NeiRabbit/Sticker5.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/NeiRabbit/Sticker6.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/NeiRabbit/Sticker7.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/NeiRabbit/Sticker8.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/NeiRabbit/Sticker9.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/NeiRabbit/Sticker10.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/NeiRabbit/Sticker11.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/NeiRabbit/Sticker12.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/NeiRabbit/Sticker13.gif"
                     ]
                 },
                 {
@@ -1548,27 +1548,6 @@
                 },
                 {
                     "animated": "Y",
-                    "name": "Nei Rabbit",
-                    "price": "pro",
-                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/NeiRabbit/Sticker3.gif",
-                    "urlImages": [
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/NeiRabbit/Sticker1.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/NeiRabbit/Sticker2.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/NeiRabbit/Sticker3.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/NeiRabbit/Sticker4.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/NeiRabbit/Sticker5.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/NeiRabbit/Sticker6.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/NeiRabbit/Sticker7.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/NeiRabbit/Sticker8.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/NeiRabbit/Sticker9.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/NeiRabbit/Sticker10.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/NeiRabbit/Sticker11.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/NeiRabbit/Sticker12.gif",
-                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/NeiRabbit/Sticker13.gif"
-                    ]
-                },
-                {
-                    "animated": "Y",
                     "name": "Pictures",
                     "price": "pro",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/Pictures/Sticker3.gif",
@@ -1621,6 +1600,26 @@
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/Dynamic/Sticker22.gif",
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/Dynamic/Sticker23.gif",
                         "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/Dynamic/Sticker24.gif"
+                    ]
+                },
+                {
+                    "animated": "Y",
+                    "name": "Cute Emoji",
+                    "price": "pro",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/CuteEmoji/Sticker3.gif",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/CuteEmoji/Sticker1.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/CuteEmoji/Sticker2.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/CuteEmoji/Sticker3.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/CuteEmoji/Sticker4.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/CuteEmoji/Sticker5.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/CuteEmoji/Sticker6.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/CuteEmoji/Sticker7.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/CuteEmoji/Sticker8.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/CuteEmoji/Sticker9.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/CuteEmoji/Sticker10.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/CuteEmoji/Sticker11.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Animals/CuteEmoji/Sticker12.gif"
                     ]
                 },
                 {
