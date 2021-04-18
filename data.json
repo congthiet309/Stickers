@@ -1335,6 +1335,35 @@
             ]
         },
         {
+            "categoryName": "Animals",
+            "packs": [
+                {
+                    "animated": "Y",
+                    "name": "Couple",
+                    "price": "pro",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker3.png",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker1.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker2.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker3.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker4.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker5.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker6.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker7.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker8.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker9.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker10.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker11.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker12.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker13.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker14.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker15.png",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Love/Couple/Sticker16.png"
+                    ]
+                }
+            ]
+        },
+        {
             "categoryName": "Text",
             "packs": [
                 {
