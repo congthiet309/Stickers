@@ -1217,6 +1217,30 @@
                     ]
                 },
                 {
+                    "animated": "Y",
+                    "name": "Single Dog",
+                    "price": "pro",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/SingleDog/Sticker1.gif",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/SingleDog/Sticker1.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/SingleDog/Sticker2.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/SingleDog/Sticker3.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/SingleDog/Sticker4.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/SingleDog/Sticker5.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/SingleDog/Sticker6.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/SingleDog/Sticker7.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/SingleDog/Sticker8.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/SingleDog/Sticker9.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/SingleDog/Sticker10.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/SingleDog/Sticker11.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/SingleDog/Sticker12.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/SingleDog/Sticker13.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/SingleDog/Sticker14.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/SingleDog/Sticker15.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/CatsDogs/SingleDog/Sticker16.gif"
+                    ]
+                },
+                {
                     "animated": "N",
                     "name": "Bell Cat",
                     "price": "pro",
