@@ -2174,6 +2174,30 @@
                 },
                 {
                     "animated": "Y",
+                    "name": "Insect",
+                    "price": "pro",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Funny/Insect/Sticker19.gif",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Funny/Insect/Sticker1.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Funny/Insect/Sticker2.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Funny/Insect/Sticker3.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Funny/Insect/Sticker4.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Funny/Insect/Sticker5.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Funny/Insect/Sticker6.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Funny/Insect/Sticker7.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Funny/Insect/Sticker8.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Funny/Insect/Sticker9.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Funny/Insect/Sticker10.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Funny/Insect/Sticker11.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Funny/Insect/Sticker12.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Funny/Insect/Sticker13.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Funny/Insect/Sticker14.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Funny/Insect/Sticker15.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Funny/Insect/Sticker16.gif"
+                    ]
+                },
+                {
+                    "animated": "Y",
                     "name": "Little Prince",
                     "price": "pro",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Funny/LittlePrince/Sticker3.gif",
