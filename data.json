@@ -2230,6 +2230,30 @@
             "categoryName": "Text",
             "packs": [
                 {
+                    "animated": "Y",
+                    "name": "Cool",
+                    "price": "pro",
+                    "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Cool/Sticker7.gif",
+                    "urlImages": [
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Cool/Sticker1.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Cool/Sticker2.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Cool/Sticker3.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Cool/Sticker4.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Cool/Sticker5.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Cool/Sticker6.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Cool/Sticker7.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Cool/Sticker8.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Cool/Sticker9.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Cool/Sticker10.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Cool/Sticker11.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Cool/Sticker12.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Cool/Sticker13.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Cool/Sticker14.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Cool/Sticker15.gif",
+                        "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Text/Cool/Sticker16.gif"
+                    ]
+                },
+                {
                     "animated": "N",
                     "name": "Color Text",
                     "price": "pro",
