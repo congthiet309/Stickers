@@ -944,7 +944,7 @@
             "categoryName": "Emojis",
             "packs": [
                 {
-                    "animated": "N",
+                    "animated": "Y",
                     "name": "Emojis Animated",
                     "price": "Pro",
                     "urlLogo": "https://raw.githubusercontent.com/congthiet309/stickers/main/Stickers/Emojis/AnimatedEmojis/Sticker8.gif",
